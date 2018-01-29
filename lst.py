@@ -1,0 +1,10 @@
+c=['India','England','USA']
+print(c)
+print(c[0])
+print(c[:])
+d=[1,2,3,4,5]
+a=d.append(6)
+print(a)
+c1=['India:1','England:2','USA:3']
+print(c1)
+print(len(c))
